@@ -1,0 +1,8 @@
+Resursi:
+1. Materijali
+2. Oprema i mašine
+3. Ljudsvo
+4. Novac
+5. Lokacije
+6. Gotovi objekti
+7. Informacije
